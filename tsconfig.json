@@ -21,9 +21,13 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "jsx": "preserve",
+    "outDir": "./built/",
     "paths": {
       "@components/*": [
         "src/components/*"
+      ],
+      "@constants/*": [
+        "src/constants/*"
       ],
       "@containers/*": [
         "src/containers/*"
@@ -47,8 +51,6 @@
     "incremental": true
   },
   "include": [
-    "next-env.d.ts",
-    "additional.d.ts",
     "src/**/*.ts",
     "src/**/*.tsx"
   ],

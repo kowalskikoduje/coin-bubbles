@@ -13,7 +13,7 @@ export default function LandingPage() {
           Cryptocurrencies available
         </h2>
         <br></br>
-        <p className="mx-auto text-xl text-center text-gray-300 font-normal leading-relaxed fs521 lg:w-2/3">
+        <p className="mx-auto text-xl mb-12 text-center text-gray-300 font-normal leading-relaxed fs521 lg:w-2/3">
           Just choose a cryptocurrency to check out its latest technical
           analysis!
         </p>

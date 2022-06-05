@@ -1,6 +1,6 @@
 # Crypto Technical Analysis
 
-This is simple UI project for Technical Analysis API - check out the [documentation](https://technical-analysis-api.herokuapp.com/documentation).
+This is simple UI project for Technical Analysis API - check out the [documentation](https://technical-analysis-api.herokuapp.com/documentation).  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,4 +42,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Demo
 
-You can also view the demo [demo](https://facebook.github.io/create-react-app/docs/getting-started).
+You can also view the demo [demo](https://kowalskikoduje.github.io/crypto-ta/).
